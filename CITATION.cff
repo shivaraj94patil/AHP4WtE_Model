@@ -4,9 +4,19 @@ message: "If you use this software, please cite it as below."
 type: software
 authors:
   - family-names: Patil
-    given-names: Shivaraj Chandrakant 
-    email: shivaraj.c.patil@ntnu.no
+    given-names: Shivaraj
+    email: your.email@example.com
 repository-code: "https://github.com/shivaraj94patil/AHP4WtE_Model"
 license: MIT
-version: "1.0.0"
+version: "1.0.1"
+doi: 10.5281/zenodo.16875959
 abstract: "A Python implementation of AHP for evaluating and ranking WtE technologies, including a hierarchy builder, CAPEX example, eigenvector solver, and consistency checks."
+preferred-citation:
+  type: software
+  title: "AHP4WTE: Python AHP model for Waste-to-Energy technology selection"
+  authors:
+    - family-names: Patil
+      given-names: Shivaraj
+  year: 2025
+  doi: 10.5281/zenodo.16875959
+  url: "https://doi.org/10.5281/zenodo.16875959"
