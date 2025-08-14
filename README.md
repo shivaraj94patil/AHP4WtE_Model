@@ -44,6 +44,8 @@ AHP4WTE is an open, reproducible Python implementation of the Analytic Hierarchy
 # Python 3.8+ recommended
 pip install -r requirements.txt
 
+
+
 ## How to cite
 
 If you use AHP4WTE in your research, please cite:
