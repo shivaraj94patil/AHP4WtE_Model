@@ -1,4 +1,6 @@
 # AHP4WtE_Model
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16875959.svg)](https://doi.org/10.5281/zenodo.16875959)
+
 Python implementation of an Analytic Hierarchy Process model for selecting Waste-to-Energy technologies.
 
 AHP4WTE is an open, reproducible Python implementation of the Analytic Hierarchy Process (AHP) for evaluating and ranking Waste‑to‑Energy (WtE) technologies. It provides:
