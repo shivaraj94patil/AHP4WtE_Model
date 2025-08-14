@@ -43,3 +43,21 @@ AHP4WTE is an open, reproducible Python implementation of the Analytic Hierarchy
 ```bash
 # Python 3.8+ recommended
 pip install -r requirements.txt
+
+## How to cite
+
+If you use AHP4WTE in your research, please cite:
+
+Patil, S. (2025). *AHP4WTE: Python AHP model for Waste-to-Energy technology selection* (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.16875959
+
+**BibTeX**
+```bibtex
+@software{AHP4WTE_zenodo_16875959,
+  author       = {Patil, Shivaraj Chandrakant},
+  title        = {AHP4WTE: Python AHP model for Waste-to-Energy technology selection},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {1.0.1},
+  doi          = {10.5281/zenodo.16875959},
+  url          = {https://doi.org/10.5281/zenodo.16875959}
+}
