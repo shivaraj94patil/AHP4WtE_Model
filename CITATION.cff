@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Patil
     given-names: Shivaraj
-    email: your.email@example.com
+    email: shivaraj.c.patil@ntnu.no
 repository-code: "https://github.com/shivaraj94patil/AHP4WtE_Model"
 license: MIT
 version: "1.0.1"
