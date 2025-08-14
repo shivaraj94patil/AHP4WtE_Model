@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "AHP4WTE: Python AHP model for Waste-to-Energy technology selection"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Patil
+    given-names: Shivaraj Chandrakant 
+    email: shivaraj.c.patil@ntnu.no
+repository-code: "https://github.com/shivaraj94patil/AHP4WtE_Model"
+license: MIT
+version: "1.0.0"
+abstract: "A Python implementation of AHP for evaluating and ranking WtE technologies, including a hierarchy builder, CAPEX example, eigenvector solver, and consistency checks."
